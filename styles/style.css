@@ -24,7 +24,7 @@ body {
 
 header {
   padding: 10px 0;
-  position: fixed;
+  /* position: fixed; */
   /* width: 98.4%; */
   font-family: "Rubik Dirt", Arial, Helvetica, sans-serif;
   font-size: 11px;
