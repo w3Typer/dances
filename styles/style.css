@@ -23,13 +23,10 @@ body {
 }
 
 header {
-  /* margin-right: 10px; */
   padding: 10px;
-  /* position: fixed; */
-  /* width: 98.4%; */
   font-family: "Rubik Dirt", Arial, Helvetica, sans-serif;
   font-size: 11px;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.15em;
   color: #fff0f3;
   text-align: center;
   background-color: #c34166;
@@ -46,9 +43,8 @@ main {
 }
 
 .main-message {
-  /* margin-top: 131px; */
   font-family: "pacifico", Arial, Helvetica, sans-serif;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
 }
 
 section {
