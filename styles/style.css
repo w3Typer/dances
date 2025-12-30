@@ -46,7 +46,7 @@ main {
 }
 
 .main-message {
-  margin-top: 131px;
+  /* margin-top: 131px; */
   font-family: "pacifico", Arial, Helvetica, sans-serif;
   letter-spacing: 0.1em;
 }
